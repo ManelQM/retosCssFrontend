@@ -5,8 +5,14 @@ table {
     width: 360px;
     height: 30px;
    }
+   /*
+   #dos {
+    
 
-   td {
+    display: flex;justify-content: center;
+}
+   */
+    td {
 
     border:1px  solid black;
     background-color: rgb(154, 225, 186);
@@ -26,6 +32,8 @@ background-color: rgb(28, 75, 28);
     width: 900px;
     
 }
+
+
 
 
 
