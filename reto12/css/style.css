@@ -17,7 +17,10 @@ table {
     border:1px  solid black;
     background-color: rgb(154, 225, 186);
 }
+    td[rowspan] {
 
+        text-align: center;
+    }
 th {
     width: 5px;
     height: 10px;
