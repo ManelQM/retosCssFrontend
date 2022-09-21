@@ -5,12 +5,12 @@ table {
  
 }
 
-div {
-border-style:outset; 
-padding: auto;
-width: 53.3%;
-height: 100%;
-border: 3px solid;
+.contenedor1 {
+background-color:rgb(244, 252, 252) ;
+height: 1vh;
+width: 53.1vw;
+border:3px rgb(3, 4, 4)
+
 
 }
 
