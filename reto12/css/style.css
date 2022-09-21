@@ -3,7 +3,7 @@ table {
     border:1px rgb(0, 0, 0); 
     background-color: rgb(145, 205, 205);
     width: 360px;
-    height: 50px;
+    height: 30px;
    }
 
    td {
@@ -29,6 +29,7 @@ background-color: rgb(28, 75, 28);
 
 #celda2 {
 
-    height: 20px;
+    height: 40px;
     display: flex;align-items: center; justify-content: center;
 }
+
