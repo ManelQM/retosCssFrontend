@@ -1,0 +1,26 @@
+table {
+border-style: outset;
+ border:1px solid rgb(0, 0, 0); 
+ background-color: rgb(190, 199, 199);
+ 
+}
+
+
+
+td {
+
+    border:1px  solid black;
+    background-color: greenyellow;
+}
+
+th {
+color: greenyellow;
+border: 1px solid black;
+background-color: darkgreen;
+
+}
+
+.verde {
+
+    background-color: darkgreen
+}
