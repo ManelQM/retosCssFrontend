@@ -1,26 +1,34 @@
 table {
-border-style: outset;
- border:1px solid rgb(0, 0, 0); 
- background-color: rgb(190, 199, 199);
+ border-style: outset;
+ border:1px rgb(0, 0, 0); 
+ background-color: rgb(145, 205, 205);
  
 }
 
+div {
+border-style:outset; 
+padding: auto;
+width: 53.3%;
+height: 100%;
+border: 3px solid;
+
+}
 
 
 td {
 
     border:1px  solid black;
-    background-color: greenyellow;
+    background-color: rgb(154, 225, 186);
 }
 
 th {
-color: greenyellow;
+color:rgb(154, 225, 186);
 border: 1px solid black;
-background-color: darkgreen;
+background-color: rgb(28, 75, 28);
 
 }
 
 .verde {
 
-    background-color: darkgreen
+    background-color:  rgb(83, 138, 83);
 }
